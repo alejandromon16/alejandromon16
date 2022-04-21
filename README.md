@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a Succesful software Developer
 - 🌱 I’m currently learning react and django Restful APi framework
 - 💞️ I’m looking to collaborate on teams as an intern for develop my skills and communication.
-- 📫 How to reach me | https://alejandromontero.pythonanywhere.com |
+- 📫 How to reach me | alejandromontero1551@gmail.com |
 
 <!---
 alejandromon16/alejandromon16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
