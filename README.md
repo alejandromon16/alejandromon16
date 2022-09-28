@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alejandromon16
 - 👀 I’m interested in becoming a Succesful software Developer
-- 🌱 I’m currently learning react and django Restful APi framework
 - 💞️ I’m looking to collaborate on teams as an intern for develop my skills and communication.
 - 📫 How to reach me | alejandromontero1551@gmail.com |
 
